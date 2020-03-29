@@ -1,0 +1,13 @@
+{
+  "name": "My Automatic Blinds Controller",
+  "wifi": {
+    "ssid": "Network_1",
+    "password": "I'm a Wi-Fi password!" 
+  },
+  "mqtt": {
+    "host": "IP goes here"
+   },
+  "ota": {
+    "enabled": true
+  }
+}
